@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Production build
+dist/
+dist-ssr/
+
+# Embedded sub-projects/repos
+ai-school-raipur/
+matlon-solar/
+
+# Local env & editor
+.env
+.env.local
+.env.*.local
+.DS_Store
+*.local
+.vscode/
+.idea/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
